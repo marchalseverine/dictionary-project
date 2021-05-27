@@ -1,10 +1,8 @@
-.phonetics{
-    display: inline;
-    text-align: left;
-}
+
 
 .phonetic-text{
     margin-left: 20px;
+    margin-top: 20px;
 }
 
 .btn-phonetic {

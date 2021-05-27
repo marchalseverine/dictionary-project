@@ -12,7 +12,7 @@ function App() {
       </header>
       <Dictionary />
       <footer>
-        <p>Coded by Séverine Marchal </p>
+        <p> <a href="https://github.com/marchalseverine/dictionary-project" rel="noreferrer" target="_blank"> Open Source Code</a> by Séverine Marchal hosted in <a href ="https://www.netlify.com/" rel="noreferrer" target="_blank">Netlify</a> </p>
       </footer>
     </div>
   );
