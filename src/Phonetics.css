@@ -1,0 +1,17 @@
+.phonetics{
+    display: inline;
+    text-align: left;
+}
+
+.phonetic-text{
+    margin-left: 20px;
+}
+
+.btn-phonetic {
+    color: #7B4BEF;
+    border: 1px solid #7B4BEF;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
