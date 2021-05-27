@@ -2,12 +2,13 @@
  text-align: center;
  background-color: #fff;
     border-radius: 6px;
-    padding: 30px;
-    margin: 19px;
+  
+
 }
 
 .dictionary div {
     padding: 20px;
+  margin: 20px 40px;
 
 }
 
