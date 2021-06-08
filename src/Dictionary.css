@@ -1,14 +1,18 @@
-.form-box{
- text-align: center;
- background-color: #fff;
-    border-radius: 6px;
-  
-
+.form-box {
+  text-align: center;
+  background-color: #8a2be2;
+  border-radius: 6px;
+  color: #fff;
+  padding: 0px;
 }
 
 .dictionary div {
-    padding: 20px;
-  margin: 20px 40px;
-
+  padding: 20px;
+  margin: 20px 60px;
+  margin-top: 40px;
 }
 
+.head-title h6 {
+  font-size: 13px;
+  margin-top: 2px;
+}
